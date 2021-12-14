@@ -54,10 +54,7 @@
 
 
 styled components
-chackra ui
-
-
- html • css • sass • less • bem • Python • Django • Django REST • Mapbox API Wordpress • Drupal • Photoshop • InVision • Sketch • Zeppelin • Avocode • Balsamiq • Docker • Firebase AWS • MongoDB • PostgressQL • Jira • Asana • Slack • Git • Gitflow • GitHub • Git hooks • Git actions GitLab • Bitbucket • CI / CD • Wireframing • Interfaces designing
+html • css • sass • Photoshop • InVision • Sketch • Zeppelin • Avocode • Balsamiq • Docker • Firebase AWS • MongoDB • PostgressQL • Jira • Asana • Slack • Git • Gitflow • GitHub • Git hooks • Git actions GitLab • Bitbucket • CI / CD • Wireframing • Interfaces designing
 
 -->
 
