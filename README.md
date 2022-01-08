@@ -17,12 +17,13 @@
 <div style="display: flex">
 <!-- Libs -->
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="50" height="50" style="margin-right: 20px" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width="75" height="40" style="margin-right: 20px" />
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="50" height="50" style="margin-right: 20px" />
 <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" width="50" height="50" style="margin-right: 20px" />
 <img src="https://mui.com/static/logo.png" width="50" height="50" style="margin-right: 20px" /> 
 <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width="50" height="50" style="margin-right: 20px" /> 
 <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" width="50" height="50" style="margin-right: 20px" /> 
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="65" height="40" style="margin-right: 20px" /> 
+<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="65" height="40" style="margin-right: 20px" />  
   
 <!-- Test -->
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50" height="50" style="margin-right: 20px" />
