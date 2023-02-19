@@ -45,8 +45,6 @@
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="50" height="50" style="margin-right: 20px" /> 
 <img src="https://avatars3.githubusercontent.com/u/16343502?v=3&s=200" width="50" height="50" style="margin-right: 20px" /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" width="50" height="50" style="margin-right: 20px" /> 
-<img src="https://www.gstatic.com/devrel-devsite/prod/v583c167abdd1a21bfbd770256d119796fdffc0b7177f088bca68fc6b48429661/firebase/images/touchicon-180.png" width="50" height="50" style="margin-right: 20px" /> 
-<img src="https://pbs.twimg.com/profile_images/1410636343944880136/w8dxKEmg_400x400.jpg" width="50" height="50" style="margin-right: 20px" /> 
 <img src="https://brandslogos.com/wp-content/uploads/images/large/invision-logo.png" width="50" height="50" style="margin-right: 20px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/850px-Sketch_Logo.svg.png" width="50" height="50" style="margin-right: 20px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" width="50" height="50" style="margin-right: 20px" />
