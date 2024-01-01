@@ -8,5 +8,6 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,angular,vue,graphql,redux,tailwind,mui,bootstrap,styledcomponents,sass,html,css,jest,webpack,vite,python,django,docker,vercel,aws,git,prisma,mongodb,graphql,xd,figma,bash&perline=14&theme=light)](https://skillicons.dev)...
 
 <br/>
+<br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCrude&theme=dark&layout=compact&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCrude&layout=compact&langs_count=10" />
